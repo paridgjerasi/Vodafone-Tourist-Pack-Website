@@ -3,7 +3,6 @@ package org.example.service;
 import lombok.RequiredArgsConstructor;
 import org.example.entity.CartItem;
 import org.example.repository.CartRepository;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.math.BigDecimal;
@@ -13,7 +12,6 @@ import java.util.Optional;
 @Service
 @RequiredArgsConstructor
 public class CartService {
-
 
     private final CartRepository cartRepository;
 
