@@ -1,11 +1,4 @@
-﻿# Vodafone Tourist Pack Website
-
-Public, read-only showcase of a Next.js + Spring Boot website for Vodafone-style tourist packs and Fix & TV bundles.
-
----
-
-## Preview
-
+#Preview Vodafone Tourist Pack Website
 <p align="center">
   <img src="public/assets/gitscreenshot1.png" alt="Screenshot 1" width="100%" />
   <img src="public/assets/gitscreenshot2.png" alt="Screenshot 2" width="100%" />
